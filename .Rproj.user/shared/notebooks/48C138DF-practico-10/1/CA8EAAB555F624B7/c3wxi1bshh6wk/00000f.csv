@@ -1,0 +1,4 @@
+"0","m1 = lm(lprice = bdrms + sqrft + colonial, data = hprice1)
+"
+"2","Warning: In lm.fit(x, y, offset = offset, singular.ok = singular.ok, ...) :
+ extra argument ‘lprice’ will be disregarded"
